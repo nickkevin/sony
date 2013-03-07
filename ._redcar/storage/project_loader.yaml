@@ -1,0 +1,8 @@
+--- 
+open_files: 
+  - app/views/microposts/_micropost.html.erb
+  - Gemfile
+  - app/views/shared/_feed.html.erb
+  - app/views/shared/_feed_item.html.erb
+  - app/views/shared/_micropost_form.html.erb
+  - app/models/user.rb
